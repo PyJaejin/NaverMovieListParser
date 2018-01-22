@@ -7,5 +7,5 @@ BeautifulSoup 라이브러리를 알게 돼서 시험삼아 만들게 되었다.
 MacOS 10.13.2 High Sierra<br>
 python 3.4<br>
 
-$pip install requests
+$pip install requests<br>
 $pip install beautifulsoup4
